@@ -6,7 +6,7 @@
 <p align="center">
   <span align="center">Smart Contract 🚀</span>
   <br/>
-  <a href ="https://safemoon.net/" target="_blank">https://eggsonbsc.com/</a>
+  <a href ="https://eggsonbsc.com/" target="_blank">https://eggsonbsc.com/</a>
 </p>
 
 <p align="center">
@@ -23,4 +23,4 @@
 
 ## About
 
-<p>Safemoon is a hyper-deflationary reflection token with an inherent burn.</p>
+<p>Eggs is a hyper-deflationary reflection token with an inherent burn.</p>
